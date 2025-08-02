@@ -20,6 +20,9 @@ FullClubConnect is a full stack event management platform for university clubs. 
 cd backend
 npm install
 ```
+
+
+ok
 Create an `.env` file with:
 ```
 MONGO_URL=<your mongodb connection>
